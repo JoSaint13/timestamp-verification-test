@@ -1,2 +1,3 @@
-# timestamp-verification-test
-Debug test deployment via API
+# Debug Test Project
+
+Generated for debugging purposes.
